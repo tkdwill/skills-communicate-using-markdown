@@ -11,3 +11,6 @@
 ###### Test H6
 
 Header Test Successful
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
